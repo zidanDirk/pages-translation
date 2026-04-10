@@ -8,6 +8,7 @@
 - [Inside Claude Code](./Inside%20Claude%20Code.md)
 - [Agents Rule of Two：AI Agent 安全的实用方法](./Agents%20Rule%20of%20Two.md)
 - [Agent 执行循环：如何从头构建 AI Agent](./The%20Agent%20Execution%20Loop.md)
+- [如何为你的 Agent 实现 Context Engineering 策略](./Context%20Engineering%20101.md)
 
 ## 翻译规则
 
