@@ -1,6 +1,6 @@
 # Agent Middleware：为 AI Agent 添加控制与可观测性
 
-![Cover Image](https://substackcdn.com/image/fetch/$s_!xE_u!,w_1200,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1bd0766-a193-40cd-9db9-ea64e48f38ba_2458x819.png)
+![Middleware Flow Diagram](https://substackcdn.com/image/fetch/$s_!jTyB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb304e2-14b2-4411-9011-bbdc5ce5a692_1469x957.png)
 
 > **原文**：[Agent Middleware: Adding Control and Observability to AI Agents](https://substack.com/@victordibia/p-175448644)  
 > **作者**：Victor Dibia, PhD  
