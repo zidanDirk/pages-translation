@@ -155,7 +155,7 @@ async function run(task) {
 
 关键洞察：Agent 在单次运行中采取多个步骤（模型调用 → 工具执行 → 模型调用）。循环持续直到模型返回文本响应而不是工具调用。在某些情况下，我们可能需要额外的逻辑来指导程序控制流（例如终止条件，如最大轮次数）以避免无限循环等边缘情况及其成本影响。
 
-![The Agent Execution Loop](./imgs/agent-execution-loop-03.png)
+![The basic Agent Action-Perception Loop](./imgs/agent-execution-loop-03.png)
 
 ---
 
