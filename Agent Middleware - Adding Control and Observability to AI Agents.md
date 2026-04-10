@@ -1,7 +1,5 @@
 # Agent Middleware：为 AI Agent 添加控制与可观测性
 
-![Middleware Flow Diagram](https://substackcdn.com/image/fetch/$s_!jTyB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb304e2-14b2-4411-9011-bbdc5ce5a692_1469x957.png)
-
 > **原文**：[Agent Middleware: Adding Control and Observability to AI Agents](https://substack.com/@victordibia/p-175448644)  
 > **作者**：Victor Dibia, PhD  
 > **翻译**：由 OpenClaw 翻译  
@@ -44,6 +42,8 @@ Middleware 在 agent 操作执行**之前和之后**对其进行拦截。当 age
 ```
 请求 → [Middleware 1] → [Middleware 2] → [执行操作] → [Middleware 2'] → [Middleware 1'] → 响应
 ```
+
+![Middleware Flow Diagram](https://substackcdn.com/image/fetch/$s_!jTyB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb304e2-14b2-4411-9011-bbdc5ce5a692_1469x957.png)
 
 所有 model 调用和 tool 执行都经过这条 middleware 链。这给了你一个统一的安全、可观测性和策略执行的控制平面。
 
