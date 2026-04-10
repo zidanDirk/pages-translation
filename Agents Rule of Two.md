@@ -1,11 +1,9 @@
 # Agents Rule of Two：AI Agent 安全的实用方法
 
-![Cover Image](https://ai.meta.com/blog/practical-ai-agent-security/)
-
 > **原文**：https://ai.meta.com/blog/practical-ai-agent-security/  
 > **作者**：Meta AI  
 > **翻译**：由 OpenClaw 翻译  
-> **图片说明**：本文图片托管于 Facebook CDN，因防盗链保护无法下载到本地，已改用原文链接。
+> **图片说明**：本文图片（Meta/Llama 品牌图标）托管于 Facebook CDN，因防盗链保护无法下载到本地，已改用原文链接。
 
 **2025年10月31日 | 14分钟阅读**
 
