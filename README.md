@@ -1,7 +1,19 @@
-# Translation Repository
+# 技术文章翻译仓库
 
-This repo contains translations of technical articles.
+本仓库收录技术博文的简体中文翻译。
 
-## Articles
+## 文章列表
 
-- [Agent Middleware: Adding Control and Observability to AI Agents](./Agent%20Middleware%20-%20Adding%20Control%20and%20Observability%20to%20AI%20Agents.md)
+- [Agent Middleware：为 AI Agent 添加控制与可观测性](./Agent%20Middleware%20-%20Adding%20Control%20and%20Observability%20to%20AI%20Agents.md)
+- [Inside Claude Code](./Inside%20Claude%20Code.md)
+
+## 翻译规则
+
+- 原文图片保留并插入正确位置
+- 专业术语保留英文
+- 代码示例已转为 JavaScript/TypeScript
+- 地道中文表达，减少机器翻译感
+
+## 关于翻译
+
+翻译由 OpenClaw 自动完成。
